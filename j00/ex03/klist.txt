@@ -1,0 +1,5 @@
+Credentials cache: API:FA4454DC-56DB-4B8C-A837-42E92C0B5560
+        Principal: mskaroup@42.FR
+
+		  Issued                Expires               Principal
+		  Oct 13 11:24:41 2015  Oct 20 11:24:41 2015  krbtgt/42.FR@42.FR
